@@ -1,0 +1,172 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+body {
+  font-family: 'PingFang SC', 'HarmonyOS Sans SC', 'Microsoft YaHei', sans-serif;
+  background: linear-gradient(160deg, #ffeef5 0%, #fff6e9 45%, #fde8f3 100%);
+  background-attachment: fixed;
+  color: #5b4a54;
+  overflow: hidden;
+}
+#app {
+  height: 100%;
+}
+/* 装饰爪印（漂浮动效） */
+.paw-bg {
+  position: fixed;
+  opacity: 0.07;
+  z-index: 0;
+  pointer-events: none;
+  font-size: 90px;
+  animation: paw-drift 7s ease-in-out infinite;
+}
+.paw1 {
+  top: 6%;
+  right: 4%;
+  transform: rotate(20deg);
+  animation-duration: 6s;
+}
+.paw2 {
+  bottom: 8%;
+  left: 3%;
+  transform: rotate(-15deg);
+  font-size: 70px;
+  animation-duration: 8s;
+  animation-delay: 1.2s;
+}
+.paw3 {
+  top: 40%;
+  left: 44%;
+  transform: rotate(35deg);
+  font-size: 50px;
+  animation-duration: 9s;
+  animation-delay: 2.4s;
+}
+@keyframes paw-drift {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -14px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .paw-bg {
+    animation: none;
+  }
+}
+
+/* ---------- 表格单元格 padding ---------- */
+.el-table .cell {
+  padding: 0 15px;
+}
+
+/* ---------- 表格单元格内的下拉 / 日期选择（无输入框样式） ---------- */
+.cell-select .el-select__wrapper {
+  box-shadow: none !important;
+  background: transparent;
+  min-height: 28px;
+  padding: 0 8px;
+  border-radius: 8px;
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+.cell-select .el-select__wrapper:hover {
+  background: #ffeef5;
+  box-shadow: 0 0 0 1px #ffc9da inset !important;
+}
+.cell-select .el-select__wrapper.is-focused {
+  box-shadow: 0 0 0 1.5px #f7a8c4 inset !important;
+}
+.cell-select .el-select__placeholder {
+  color: #e8c6d4;
+}
+.cell-select .el-select__caret {
+  color: #d493ab;
+  font-size: 12px;
+  width: 14px;
+}
+
+.cell-date {
+  width: 118px;
+  --el-date-editor-width: 118px;
+}
+.cell-date .el-input__wrapper {
+  box-shadow: none !important;
+  background: transparent;
+  padding: 0 8px;
+  border-radius: 8px;
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+.cell-date .el-input__wrapper:hover {
+  background: #ffeef5;
+  box-shadow: 0 0 0 1px #ffc9da inset !important;
+}
+.cell-date .el-input__wrapper.is-focus {
+  box-shadow: 0 0 0 1.5px #f7a8c4 inset !important;
+}
+.cell-date .el-input__prefix {
+  display: none;
+}
+.cell-date .el-input__inner {
+  color: #8a7381;
+  font-size: 12.5px;
+  height: 24px;
+}
+.cell-date .el-input__clear {
+  color: #d493ab;
+}
+/* 空的后缀元素会渲染出一个小点，隐藏之（有清除按钮时非空不受影响） */
+.cell-date .el-input__suffix-inner:empty {
+  display: none;
+}
+
+/* ---------- 日期选择面板：粉色可爱主题 ---------- */
+.cute-picker.el-popper {
+  --el-color-primary: #e56d92;
+  --el-color-primary-light-3: #ee8fac;
+  --el-color-primary-light-5: #f5b3c8;
+  --el-color-primary-light-7: #fad6e2;
+  --el-color-primary-light-8: #ffe3ec;
+  --el-color-primary-light-9: #ffeef5;
+  --el-color-primary-dark-2: #d16a8f;
+  border: 1px solid #ffd9e5 !important;
+  border-radius: 16px !important;
+  box-shadow: 0 10px 30px rgba(229, 109, 146, 0.25) !important;
+}
+.cute-picker .el-picker-panel {
+  border-radius: 16px;
+}
+.cute-picker .el-date-picker__header-label {
+  color: #a5647f;
+  font-weight: 800;
+}
+.cute-picker .el-picker-panel__icon-btn {
+  color: #d493ab;
+}
+.cute-picker .el-date-table th {
+  color: #c08a9d;
+  border-bottom-color: #ffe3ec;
+}
+.cute-picker .el-date-table td .el-date-table-cell {
+  border-radius: 10px;
+}
+.cute-picker .el-date-table td.in-range .el-date-table-cell {
+  background: #ffeef5;
+}
+.cute-picker .el-picker-panel__footer {
+  background: transparent;
+  border-top: 1px solid #ffe3ec;
+}
+@media (max-width: 640px) {
+  .cell-date {
+    width: 104px;
+    --el-date-editor-width: 104px;
+  }
+}

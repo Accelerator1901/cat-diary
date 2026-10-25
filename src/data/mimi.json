@@ -1,0 +1,1731 @@
+[
+  {
+    "cat": "小咪",
+    "sub": "",
+    "amount": 700.0,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "妮可露",
+    "amount": 13.64,
+    "platform": "",
+    "note": "已用完"
+  },
+  {
+    "cat": "猫砂盆",
+    "sub": "皮皮淘",
+    "amount": 10.46,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "逗猫棒",
+    "amount": 3.49,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "瑞斯塔",
+    "amount": 100.0,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "检查",
+    "amount": 19.9,
+    "platform": "",
+    "note": "已核销"
+  },
+  {
+    "cat": "猫用品",
+    "sub": "超亚-清洁手套",
+    "amount": 23.68,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "哈威顿",
+    "amount": 56.4,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "猫抓板",
+    "amount": 6.48,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "牵引绳",
+    "amount": 3.08,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "小鸭子",
+    "amount": 5.16,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "裹猫布",
+    "amount": 8.37,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "猫碗",
+    "amount": 15.68,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "猫箱",
+    "amount": 47.5,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "凯摩-主食猫条",
+    "amount": 16.52,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "垫子",
+    "amount": 3.77,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "妮可露",
+    "amount": 28.8,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "垫子",
+    "amount": 2.7,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "喵梵思-小灶猫饭",
+    "amount": 20.0,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.34,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "莫可",
+    "amount": 18.81,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "驱虫",
+    "amount": 21.0,
+    "platform": "",
+    "note": "2支外驱，1支内驱"
+  },
+  {
+    "cat": "猫粮",
+    "sub": "网易严选",
+    "amount": 9.9,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗-主食罐头",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "豆柴",
+    "amount": 49.0,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "梳子",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "特喵德-肉汤罐",
+    "amount": 4.91,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "诺乐-幼猫罐头",
+    "amount": 15.99,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 14.5,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "疫苗",
+    "amount": 28.0,
+    "platform": "",
+    "note": "已核销"
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 14.61,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 15.57,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 14.68,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "猫转盘",
+    "amount": 10.93,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "妮可露",
+    "amount": 5.86,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 1.6,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "喵梵思-小灶猫饭",
+    "amount": 10.0,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-化毛膏",
+    "amount": 4.42,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "zeze-猫爬架",
+    "amount": 29.98,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "好适嘉-主食罐头",
+    "amount": 6.7,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "地狱厨房-厚乳奶昔",
+    "amount": 10.49,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先罐头",
+    "amount": 37.05,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "喜崽",
+    "amount": 5.92,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "宠珍珍",
+    "amount": 5.24,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "猫藓",
+    "amount": 16.6,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "伊丽莎白圈",
+    "amount": 4.24,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "关谷庄",
+    "amount": 1.66,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "小壳-牙膏",
+    "amount": 27.76,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "豆柴",
+    "amount": 47.72,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "麦富迪-羊奶棒",
+    "amount": 6.52,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "麦富迪-羊奶棒",
+    "amount": 6.52,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宽福",
+    "amount": 20.36,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝倍乖",
+    "amount": 0.04,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "逗猫棒",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 1.76,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "冠能",
+    "amount": 0.8,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "猫铮铮-猫条",
+    "amount": 0.43,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "顽皮-罐头",
+    "amount": 0.52,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "霸弗",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "猫大力",
+    "amount": 1.46,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "猫铮铮-猫条",
+    "amount": 0.52,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佰萃",
+    "amount": 1.0,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "蓝氏",
+    "amount": 2.61,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "顽皮-罐头",
+    "amount": 0.61,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "诚实一口",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "小壳",
+    "amount": 9.34,
+    "platform": "",
+    "note": "14.34"
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.41,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "猫铮铮-猫条",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "puzi",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "顽皮-试吃",
+    "amount": 0.02,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "诚实一口",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "冠能",
+    "amount": 0.82,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "迷宫掏洞",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "驱虫",
+    "amount": 5.78,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "冠能",
+    "amount": 0.9,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "厂花小姐",
+    "amount": 1.38,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫砂",
+    "sub": "许翠花",
+    "amount": 68.38,
+    "platform": "",
+    "note": "13.81"
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "猫铮铮-猫条",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 2.2,
+    "platform": "",
+    "note": "2.19"
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗",
+    "amount": 9.01,
+    "platform": "",
+    "note": "9"
+  },
+  {
+    "cat": "猫粮",
+    "sub": "味当家",
+    "amount": 8.02,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "puzi",
+    "amount": 4.23,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "垫子",
+    "amount": 0.01,
+    "platform": "",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "顽皮-罐头",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-罐头+餐包",
+    "amount": 0.03,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-罐头+餐包",
+    "amount": 0.18,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-罐头+餐包",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-罐头+餐包",
+    "amount": 0.16,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-罐头*2",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "麦富迪-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "麦德氏",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-试吃",
+    "amount": 0.02,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "猫砂盆",
+    "amount": 83.46,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-试吃",
+    "amount": 0.1,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-试吃+罐头",
+    "amount": 0.5,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "醇粹-试吃",
+    "amount": 0.04,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝迪路-鸡胸肉",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "zeze-冰垫",
+    "amount": 9.57,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "zeze-冰垫",
+    "amount": 8.35,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "毛巾",
+    "amount": 0.18,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "麦迪富-试吃",
+    "amount": 0.02,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "麦迪富-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宝倍乖-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "金宇-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "布兰德-餐盒",
+    "amount": 0.04,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "爱立方",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "希宝+皇家",
+    "amount": 0.1,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.02,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.09,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "顽皮-猫饭",
+    "amount": 0.03,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家+领先试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-试吃",
+    "amount": 0.5,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家-试吃",
+    "amount": 0.18,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家-试吃",
+    "amount": 1.0,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家-试吃",
+    "amount": 1.0,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家-试吃",
+    "amount": 1.0,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "卷尾巴-罐头",
+    "amount": 0.52,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "耐威克-餐盒",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "味当家-餐包",
+    "amount": 115.49,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "味当家-罐头",
+    "amount": 13.2,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗-主食罐头",
+    "amount": 0.49,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗-主食罐头",
+    "amount": 1.0,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "KONOKO-除臭喷雾",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "垃圾袋",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "蓝氏",
+    "amount": 5.75,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "蓝氏",
+    "amount": 4.75,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "顽皮-猫条",
+    "amount": 0.45,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "素力高-罐头",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "许翠花-湿巾",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "萌宠兄弟-免洗手套",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-猫条",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-猫条",
+    "amount": 1.9,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-试吃",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-试吃",
+    "amount": 1.0,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "领先-试吃",
+    "amount": 0.12,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "高爷家-猫条",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "来旺兄弟-除臭喷雾",
+    "amount": 0.59,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "猫大力-汤包",
+    "amount": 0.99,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "干燥条",
+    "amount": 0.13,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "zeze-猫爬架",
+    "amount": 76.31,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "猫碗",
+    "amount": 0.39,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "一只喜欢-冻干",
+    "amount": 4.9,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "一只喜欢-冻干",
+    "amount": 4.64,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "许翠花-湿巾",
+    "amount": 0.04,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "猫碗",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "一只喜欢-冻干",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "味当家-猫粮",
+    "amount": 3.14,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "收纳盒",
+    "amount": 0.09,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "收纳盒",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "味当家-猫粮",
+    "amount": 2.9,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "味当家-猫粮",
+    "amount": 2.3,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "里兜-沐浴露",
+    "amount": 0.02,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "浴花",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "怪老板-冻干",
+    "amount": 0.01,
+    "platform": "JD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "爱喜雅-餐包",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗-主食罐头+冻干+羊奶棒",
+    "amount": 16.78,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "路斯-猫饼干",
+    "amount": 0.4,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "路斯-猫饼干",
+    "amount": 0.07,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "路斯-猫草冻干",
+    "amount": 0.91,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "网易严选-冻干",
+    "amount": 3.81,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.11,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "垫子",
+    "amount": 3.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 1.8,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗-试吃",
+    "amount": 1.37,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "奶弗-主食罐头",
+    "amount": 0.53,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.02,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 11.88,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 12.63,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 0.79,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 0.79,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 0.79,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 0.79,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "盒子",
+    "amount": 2.84,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "盒子",
+    "amount": 1.0,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "盒子",
+    "amount": 0.48,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "盒子",
+    "amount": 0.72,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "盒子",
+    "amount": 0.97,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "维生素",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-罐头",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.51,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "佳乐滋-试吃",
+    "amount": 0.06,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "彼乐其汤包",
+    "amount": 0.08,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "彼乐其冻干",
+    "amount": 0.21,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "网易严选-试吃",
+    "amount": 0.49,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-猫条",
+    "amount": 0.9,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-猫条",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "轻松牧场",
+    "amount": 1.0,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "宠安哆",
+    "amount": 2.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "自然光环-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "自然光环-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "自然光环-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "皇家-试吃",
+    "amount": 0.01,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-羊奶蛋",
+    "amount": 0.54,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.53,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-羊奶蛋",
+    "amount": 0.62,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.61,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-羊奶蛋",
+    "amount": 0.42,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.42,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-羊奶蛋",
+    "amount": 0.67,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-餐包",
+    "amount": 0.67,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "多特思-羊奶蛋",
+    "amount": 0.9,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "盒子",
+    "amount": 0.59,
+    "platform": "TB",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "监控",
+    "amount": 217.0,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "玩具毛",
+    "amount": 11.1,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "次氯酸",
+    "amount": 18.96,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "灯",
+    "amount": 25.42,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "响片",
+    "amount": 4.32,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "木天蓼",
+    "amount": 14.9,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "伊曲康挫",
+    "amount": 31.08,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "剃毛器",
+    "amount": 17.86,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "柜子",
+    "amount": 149.5,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "把手",
+    "amount": 14.72,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "展示架",
+    "amount": 5.54,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "压泥器",
+    "amount": 0.01,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "刮刀",
+    "amount": 0.11,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "收纳盒",
+    "amount": 0.01,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "北愿",
+    "amount": 0.11,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "衣服",
+    "amount": 7.9,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "收纳盒",
+    "amount": 2.3,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "化毛片",
+    "amount": 13.86,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "医疗",
+    "sub": "驱虫",
+    "amount": 15.76,
+    "platform": "PDD",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "罐头盖子",
+    "amount": 0.01,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "收纳盒",
+    "amount": 0.01,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "牙膏",
+    "amount": 6.93,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "牙膏",
+    "amount": 6.93,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫用品",
+    "sub": "牙膏",
+    "amount": 2.63,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫玩具",
+    "sub": "玩具",
+    "amount": 1.87,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头",
+    "amount": 0.01,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头",
+    "amount": 1.05,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头",
+    "amount": 1.05,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头",
+    "amount": 1.04,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头+猫条",
+    "amount": 0.01,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头+猫条",
+    "amount": 0.01,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头+冻干",
+    "amount": 0.01,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "弗列加特-罐头+冻干",
+    "amount": 1.05,
+    "platform": "DY",
+    "note": ""
+  },
+  {
+    "cat": "猫粮",
+    "sub": "地狱厨房冻干",
+    "amount": 9.73,
+    "platform": "DY",
+    "note": "10.24"
+  },
+  {
+    "cat": "医疗",
+    "sub": "猫三联",
+    "amount": 10.99,
+    "platform": "",
+    "note": ""
+  }
+]
